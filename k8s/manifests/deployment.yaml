@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: react-app
-          image: aadityaa173/devops-react-app:18
+          image: aadityaa173/devops-react-app:19
           imagePullPolicy: Always
           ports:
             - containerPort: 3000
